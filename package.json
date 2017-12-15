@@ -2,6 +2,7 @@
   "name": "React-Threes",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://imsolost.github.io/React-Threes",
   "devDependencies": {
     "react-scripts": "1.0.17"
   },
